@@ -22,7 +22,6 @@ async function main() {
         console.log(data)
         if (!data) {
             return false;
-
         }
         
         if(data.length!==0 || data.length!=null){
